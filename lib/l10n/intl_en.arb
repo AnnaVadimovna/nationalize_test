@@ -1,0 +1,11 @@
+{
+    "nation_recognizer": "Nation recognizer",
+    "recognize": "Recognize",
+    "name": "Name",
+    "item_text": "{name} with {chance} chance",
+    "tasks_list_update": "Update",
+    "tasks_list_retry": "Retry",
+    "tasks_list_empty": "Empty",
+    "tasks_list_error": "Error",
+    "tasks_list_loading": "Loading..."
+}
